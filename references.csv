@@ -1,0 +1,5 @@
+id,title,authors,year,venue
+1,Cassava Leaf Disease Classification with a 1M-Parameter Multi-Scale Attention Residual CNN: A Leakage-Controlled Evaluation,Divyakant Meva; Kalpesh Popat; Hiren Kukadiya,2026,Draft Version 2.3
+2,Searching for MobileNetV3,Andrew Howard et al.,2019,ICCV
+3,ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design,Ningning Ma et al.,2018,ECCV
+4,Focal Loss for Dense Object Detection,Tsung-Yi Lin et al.,2017,ICCV
