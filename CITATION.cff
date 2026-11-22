@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or the saved results, please cite the associated paper (provisional entry; update when published)."
+title: "Imbalance- and Noise-Aware Training for Lightweight Cassava Leaf Disease Classification: A Controlled Multi-Seed Benchmark on Field Images"
+type: software
+version: 0.1.0
+date-released: 2026-10-13
+license: MIT
+authors:
+  - family-names: "Meva"
+    given-names: "Divyakant"
+    affiliation: "Marwadi University, Rajkot, Gujarat, India"
+  # TODO: add the remaining authors before submission
